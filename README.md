@@ -53,7 +53,7 @@ Any usage, extraction, or redistribution of that avatar from my live website is 
 
 ---
 
-![Protfolio-Preview](https://shiven-portfolio-jt9jnowsf-shivens-projects-aacaa513.vercel.app/)
+
 
 ---
 
